@@ -1,0 +1,988 @@
+{
+  "name": "Rūta Binkytė",
+  "base": "https://rutabinkyte.com",
+  "email": "ruta.binkyte@dfki.de",
+  "role": "Senior Researcher and Deputy Lead",
+  "group": "Efficient and Explainable AI (E&E) group",
+  "affiliation": "German Research Center for Artificial Intelligence (DFKI)",
+  "location": "Saarbrücken, Germany",
+  "scholarId": "ujrfUKIAAAAJ",
+  "profiles": {
+    "Google Scholar": "https://scholar.google.com/citations?user=ujrfUKIAAAAJ&hl=en",
+    "GitHub": "https://github.com/RutaBinkyte",
+    "ORCID": "https://orcid.org/0000-0001-8781-3730",
+    "LinkedIn": "https://www.linkedin.com/in/ruta-binkyte/"
+  },
+  "intro": "I work on bias and safety in AI. I’m especially interested in how bias and unsafe behaviour emerge when AI agents interact with one another or with people.",
+  "background": "I use behavioural experiments and interpretability methods to study bias and safety in AI, from the way agents influence one another’s decisions to how people and AI share credit for their work.",
+  "news": [
+    [
+      "2026-11",
+      "Research visit",
+      "From 7 to 19 December 2026, I’ll visit CSIRO in Australia. We’ll study how to identify what people and AI systems each contribute when they create something together.",
+      "About the DFG collaboration",
+      "projects#australia"
+    ],
+    [
+      "2026-11",
+      "Teaching",
+      "I’ll teach at Durham University’s summer school in July 2027.",
+      "Teaching",
+      "teaching"
+    ],
+    [
+      "2026-11",
+      "Appointment",
+      "I’m now Deputy Lead of DFKI’s Efficient and Explainable AI (E&E) group. Simon Ostermann leads the group within the Multilinguality and Language Technology department.",
+      "Meet the E&E group",
+      "https://www.dfki.de/en/web/research/research-departments/multilinguality-and-language-technology/ee-team"
+    ],
+    [
+      "2026-11",
+      "Conference service",
+      "I’ll serve as a programme chair for the Sixth European Conference on Algorithmic Fairness (ECAF 2027) in Vilnius, 25–27 August 2027.",
+      "Meet the organising committee",
+      "https://2027.ecafconference.org/organization"
+    ],
+    [
+      "2026-11",
+      "Preprint",
+      "What does alignment training reward when oversight is imperfect? Our new paper examines conditional compliance.",
+      "Read the preprint",
+      "https://arxiv.org/abs/2611.02162"
+    ],
+    [
+      "2026-09",
+      "Talk",
+      "My lecture on bias and safety in AI is now available from the Probabilistic AI School.",
+      "Watch the recording",
+      "https://www.youtube.com/watch?v=yazyhBDT0Lg"
+    ],
+    [
+      "2026-07",
+      "Publication",
+      "Our ICML position paper uses causality to explain why trustworthy AI objectives can conflict.",
+      "Read the paper",
+      "https://proceedings.mlr.press/v306/binkyte26a.html"
+    ],
+    [
+      "2026-04",
+      "Publication",
+      "Our study of hidden bias in LLM-assisted peer reviews was accepted to ACL Findings.",
+      "Read the paper",
+      "https://aclanthology.org/2026.findings-acl.14/"
+    ],
+    [
+      "2026-03",
+      "Grant",
+      "Coefficient Giving is supporting our project on deception in multi-agent systems. I’m leading the project as principal investigator.",
+      "Explore the project",
+      "projects#deception"
+    ],
+    [
+      "2025-10",
+      "Conference",
+      "I presented my framework for evaluating interactional fairness in multi-agent systems at AIES.",
+      "Read the paper",
+      "https://ojs.aaai.org/index.php/AIES/article/view/36563"
+    ]
+  ],
+  "projects": [
+    {
+      "id": "deception",
+      "name": "AI Deception Dynamics",
+      "meta": "Coefficient Giving",
+      "question": "Exploring deception in behavior and internal representations.",
+      "description": "My collaborators and I study how language-model agents respond to misleading reports from their peers. We also test what a probe of a model’s internal activity can tell us about whether its answer is deceptive.",
+      "topic": "Deception and interpretability",
+      "role": "Principal investigator"
+    },
+    {
+      "id": "australia",
+      "name": "DFG International Collaboration",
+      "meta": "German Research Foundation · Project 568154038",
+      "question": "When a person and an AI create something together, how can we tell what each contributed?",
+      "description": "With CSIRO’s Data61 and Macquarie University, I’m exploring how to attribute contributions in human–AI co-creation. In scientific writing, for example, a record of drafts and model interactions can help trace who proposed an idea and who developed it.",
+      "link": "https://cispa.de/en/research/funded-projects-and-collaborations",
+      "linkLabel": "CISPA funding record",
+      "topic": "Contribution attribution",
+      "role": "Principal investigator"
+    },
+    {
+      "id": "marss",
+      "name": "MARSS",
+      "role": "Co-principal investigator at DFKI MLT",
+      "meta": "BMFTR · 2026–2029",
+      "topic": "Disinformation and media literacy",
+      "question": "How can students recognise when an online post is trying to manipulate their emotions?",
+      "description": "MARSS is developing a school learning platform that examines text and images together. Its feedback helps students discuss how digital media can shape their judgement and decide when to question a source.",
+      "link": "https://www.dfki.de/en/web/research/projects-and-publications/project/marss",
+      "linkLabel": "Project at DFKI"
+    },
+    {
+      "id": "combo",
+      "name": "COMBO (Compliance Bot)",
+      "role": "Co-principal investigator at DFKI MLT",
+      "meta": "Horizon Europe · 2026–2029",
+      "topic": "Multilingual AI",
+      "question": "How can AI help people work out which EU rules apply to their organisation?",
+      "description": "COMBO is developing a multilingual assistant that uses AI agents to help organisations navigate EU regulation. The project includes use cases for small and medium-sized enterprises working across languages.",
+      "link": "https://cordis.europa.eu/project/id/101299049",
+      "linkLabel": "European Commission project record"
+    },
+    {
+      "id": "prisyn",
+      "name": "PriSyn",
+      "meta": "CISPA · 2024–2025",
+      "question": "Can synthetic health data preserve what researchers need to learn?",
+      "description": "At CISPA, I worked with colleagues and project partners on synthetic health data. PriSyn examines how to preserve the statistical properties needed for medical research while protecting the privacy of the people whose data were used.",
+      "link": "https://cispa.de/en/prisyn-project",
+      "linkLabel": "Visit the project at CISPA",
+      "topic": "Privacy",
+      "role": "Postdoctoral collaborator"
+    }
+  ],
+  "talks": [
+    {
+      "id": "vinted-summer",
+      "title": "Panel discussion at Vinted",
+      "host": "Vinted",
+      "date": "2026",
+      "kind": "Invited panellist",
+      "description": "I joined Vinted’s data science and analytics team for a discussion of economics and ethics.",
+      "section": "invited",
+      "displayDate": "Summer 2026",
+      "photos": [
+        [
+          "vinted-panel.webp",
+          "The moderator and panellists at Vinted’s summer 2026 discussion."
+        ],
+        [
+          "vinted-discussion.webp",
+          "Speaking on the Vinted panel."
+        ]
+      ]
+    },
+    {
+      "id": "lovelace-turing",
+      "title": "Rethinking Fairness for LLMs and Agentic AI",
+      "host": "Lovelace–Turing Club · University of Basel, Switzerland",
+      "date": "2026-03",
+      "kind": "Invited seminar",
+      "description": "On 24 March I spoke about what changes when we assess fairness in systems that can hold a conversation and act on what others say.",
+      "section": "invited",
+      "url": "https://dmi.unibas.ch/de/forschung/informatik/lovelace-turing-club/detail/rethinking-fairness-for-llms-and-agentic-ai/",
+      "action": "Seminar announcement"
+    },
+    {
+      "id": "elias-trustworthy",
+      "title": "From Prediction to Interaction: Rethinking Fairness for LLMs and Agentic AI",
+      "host": "The Future of Trustworthy AI: Frugality, Fairness & Trust · ELIAS, ELLIOT and ENFIELD, Paris",
+      "date": "2026-03",
+      "kind": "Keynote",
+      "description": "On 6 March I compared fairness in predictive models with fairness in interactive AI. I discussed how to evaluate and mitigate harms that arise as agents respond to one another.",
+      "section": "invited",
+      "url": "https://elias-ai.eu/event/tdw-trustworthy-ai/",
+      "action": "Workshop programme",
+      "links": [
+        [
+          "Talk slides",
+          "https://elias-ai.eu/wp-content/uploads/2026/04/ELIAS-ELLIOT-ENFIELD-TDW-From-Prediction-to-Interaction-Rethinking-Fairness-for-LLMs-and-Agentic-AI-Ruta-Binkyte-Sadauskiene.pdf"
+        ]
+      ]
+    },
+    {
+      "id": "humans",
+      "title": "From Humans to Machines and Back",
+      "subtitle": "Fairness, Causality, and the Role of Social Science",
+      "host": "Interdisciplinary Institute for Societal Computing",
+      "date": "2026-01",
+      "kind": "Invited lecture",
+      "description": "How can social science help us choose what to measure in a fairness audit? I trace that question from predictive models to conversations among AI agents.",
+      "url": "https://www.youtube.com/watch?v=PgzE9ds30Eg",
+      "image": "talk-2.jpg",
+      "action": "Watch recording",
+      "section": "invited",
+      "links": [
+        [
+          "Lecture series",
+          "https://www.i2sc.net/events/past-events/i2sc-lecture-series-winter-202526"
+        ]
+      ]
+    },
+    {
+      "id": "keio-fairness",
+      "title": "Interactional Fairness in LLM Multi-Agent Systems",
+      "host": "Keio University, Tokyo",
+      "date": "2025-11",
+      "kind": "Invited workshop talk",
+      "description": "A session on fairness in agent conversations at the Workshop on Explainability and Fairness in AI and Digital Environments. I also spoke about fairness and causal interpretability.",
+      "url": "https://www.carls.keio.ac.jp/symbiosis/event/event20251104.html",
+      "action": "Workshop programme",
+      "section": "invited"
+    },
+    {
+      "id": "franco-japanese-2025",
+      "title": "Franco-Japanese Cybersecurity Workshop",
+      "host": "Tokyo, Japan",
+      "date": "2025-11",
+      "kind": "Invited workshop talk",
+      "description": "",
+      "url": "https://csri.nict.go.jp/report/20251105_9th_FJWS.html",
+      "action": "Workshop report",
+      "section": "invited"
+    },
+    {
+      "id": "aies-panel",
+      "title": "Stereotypes, Fairness, and Oppression in LLM-based Social Interactions",
+      "host": "AIES 2025 · IE University, Madrid",
+      "date": "2025-10",
+      "kind": "Invited panellist",
+      "description": "On 22 October I joined a discussion chaired by Andrés Páez on how stereotypes and unequal treatment arise when language models interact.",
+      "section": "invited",
+      "url": "https://www.aies-conference.com/2025/wp-content/doc/AIES-2025-Program-10.20.pdf#page=24",
+      "action": "Session programme",
+      "photos": [
+        [
+          "aies-panel.webp",
+          "On the AIES panel on stereotypes, fairness and oppression in LLM-based social interactions at IE University in Madrid."
+        ]
+      ]
+    },
+    {
+      "id": "causali-t-ai",
+      "title": "A Causal Perspective on Balancing Competing Goals in Trustworthy Machine Learning",
+      "host": "CAUSALI-T-AI annual workshop · Institut Henri Poincaré, Paris",
+      "date": "2025-08",
+      "kind": "Invited workshop talk",
+      "description": "",
+      "url": "https://sites.google.com/view/causali-t-ai/events/annual-workshop",
+      "action": "Programme and slides",
+      "section": "invited"
+    },
+    {
+      "id": "wai-lithuania",
+      "title": "Women Shaping AI in Lithuania",
+      "host": "Women in AI Lithuania chapter launch · Vinted, Vilnius",
+      "date": "2025-06",
+      "kind": "Invited talk",
+      "description": "On 17 June I spoke about AI ethics and fairness at the chapter’s first event. The idea for the chapter grew out of conversations at ECML PKDD in Vilnius in 2024.",
+      "section": "invited",
+      "url": "https://www.eventbrite.ie/e/wai-talk-1-women-shaping-ai-in-lithuania-tickets-1380229546729",
+      "action": "Event programme",
+      "photos": [
+        [
+          "wai-lithuania-panel.webp",
+          "Taking questions during the Women in AI Lithuania panel discussion."
+        ]
+      ]
+    },
+    {
+      "id": "causal",
+      "title": "A Causal Perspective on Balancing Competing Goals in Trustworthy Machine Learning",
+      "host": "Saarland Informatics Campus",
+      "date": "2025-05",
+      "kind": "Guest lecture",
+      "description": "Examples of how causal assumptions change the trade-offs between fairness, privacy, and predictive performance.",
+      "url": "https://cms.sic.saarland/causal/news/view/3",
+      "action": "View lecture details",
+      "section": "invited"
+    },
+    {
+      "id": "keio-causality",
+      "section": "invited",
+      "title": "Causality in Trustworthy AI",
+      "host": "France–Japan workshop on fairness in machine learning · Keio University, Mita Campus, Tokyo",
+      "date": "2025-03",
+      "displayDate": "24 Mar 2025",
+      "kind": "Invited workshop talk",
+      "description": "I discussed how causal reasoning can help explain trade-offs between fairness, interpretability, robustness and privacy.",
+      "url": "https://abelard.flet.keio.ac.jp/2025/0324_Workshop",
+      "action": "Workshop programme",
+      "photos": [
+        [
+          "keio-ai-tradeoffs.webp",
+          "Discussing trade-offs between fairness, accuracy, privacy and explainability at Keio University."
+        ]
+      ]
+    },
+    {
+      "id": "di-versle",
+      "title": "AI in Business. Present and Future",
+      "host": "DI versle. Dabartis ir ateitis · Online",
+      "date": "2024-11",
+      "kind": "Invited talk",
+      "description": "A Lithuanian-language event on the use of AI in business.",
+      "url": "https://www.youtube.com/watch?v=t7r21yY4GaY",
+      "action": "Watch the event",
+      "section": "invited"
+    },
+    {
+      "id": "aivolution",
+      "title": "AIvolution: Transforming the European Union’s Economy and Society",
+      "host": "European Parliament, Brussels",
+      "date": "2023-11",
+      "kind": "Invited speaker",
+      "description": "On 16 November I joined the opening session on AI technologies, algorithms and their uses.",
+      "url": "https://eurotech-universities.eu/news-and-events/events/aivolution/",
+      "action": "Event programme",
+      "section": "invited",
+      "links": [
+        [
+          "Watch the event",
+          "https://www.youtube.com/watch?v=qRDfmsOMdDk"
+        ]
+      ],
+      "photos": [
+        [
+          "ep-speaker.webp",
+          "Speaking at AIvolution in the European Parliament."
+        ],
+        [
+          "ep-group.webp",
+          "AIvolution participants in Brussels."
+        ]
+      ]
+    },
+    {
+      "id": "wimlds",
+      "title": "Identifying and mitigating bias in machine learning",
+      "host": "Women in Machine Learning and Data Science · Paris",
+      "date": "2023-06",
+      "kind": "Invited talk",
+      "description": "Examples from face recognition and healthcare illustrate how representation and historical bias affect machine learning.",
+      "url": "https://www.youtube.com/watch?v=nlkN2yJz8_Q&t=1180s",
+      "action": "Watch my talk at 19:40",
+      "section": "invited",
+      "links": [
+        [
+          "Event recap",
+          "https://wimlds-paris.medium.com/43-paris-women-in-machine-learning-data-science-ethics-image-and-video-surveillance-30fd9ff030c4"
+        ]
+      ]
+    },
+    {
+      "id": "malotec",
+      "title": "MALOTEC seminar",
+      "host": "LORIA · Université de Lorraine, Nancy",
+      "date": "2022-11",
+      "kind": "Invited seminar",
+      "description": "",
+      "url": "https://www.lix.polytechnique.fr/page/index.php?path=cv%2F&username=binkytesadauskiene",
+      "action": "Speaker listing",
+      "section": "invited"
+    },
+    {
+      "id": "franco-japanese-2022",
+      "title": "Causality for Fairness",
+      "host": "7th Franco-Japanese Cybersecurity Workshop · Keio University, Tokyo",
+      "date": "2022-10",
+      "kind": "Invited workshop talk",
+      "description": "",
+      "url": "https://www.lix.polytechnique.fr/page/index.php?path=&username=binkytesadauskiene",
+      "action": "Talk announcement",
+      "section": "invited"
+    }
+  ],
+  "media": [
+    {
+      "id": "ziniu-health",
+      "title": "Kaip elgtis su dirbtinio intelekto pateikiama sveikatos informacija?",
+      "host": "Žinių radijas · Mokslas suprantamai",
+      "date": "2026",
+      "kind": "Radio interview · Lithuanian",
+      "description": "Why an AI assistant can give a confident answer without enough information about a patient, and what happens when it tells people what they want to hear.",
+      "url": "https://www.ziniuradijas.lt/laidos/mokslas-suprantamai/kaip-elgtis-su-dirbtinio-intelekto-pateikiama-sveikatos-informacija?video=1",
+      "action": "Open the broadcast",
+      "links": [
+        [
+          "Read the TV3 coverage",
+          "https://www.tv3.lt/naujiena/lietuva/vyras-kentejo-25-metus-kol-liga-nustate-chatgpt-kodel-visa-detektyvini-darba-turejau-atlikti-pats-n1498467"
+        ]
+      ]
+    },
+    {
+      "id": "ziniu-aurimo",
+      "title": "Dirbtinis intelektas – šališkas?",
+      "host": "Žinių radijas · Aurimo laboratorija",
+      "date": "2025-11",
+      "kind": "Podcast · Lithuanian",
+      "description": "A conversation with Karolina Griciūnė about how AI systems learn and where bias enters their decisions.",
+      "url": "https://www.ziniuradijas.lt/laidos/ziniu-radijo-patreon/aurimo-laboratorija-dirbtinis-intelektas-saliskas?video=1",
+      "action": "Open the broadcast",
+      "links": [
+        [
+          "Watch on YouTube",
+          "https://www.youtube.com/watch?v=ktLLLbHQYgY"
+        ]
+      ]
+    },
+    {
+      "id": "ziniu-radijas",
+      "title": "Lietuva – didelė",
+      "host": "Žinių radijas",
+      "date": "2025-09",
+      "kind": "Radio interview · Lithuanian",
+      "description": "How I came to work on AI ethics in France, and the family history that connects me to Lithuania.",
+      "url": "https://www.youtube.com/watch?v=9EC7Jf0Aotg",
+      "action": "Watch the interview",
+      "image": "media-ziniu-radijas.jpg"
+    },
+    {
+      "id": "aimpactful",
+      "title": "AI Fairness and Causality",
+      "host": "AImpactful",
+      "date": "2024-07",
+      "kind": "Interview · English",
+      "description": "How studying history and anthropology shaped my approach to causal reasoning and bias in AI.",
+      "url": "https://aimpactful.com/ai-fairness-and-causality-ruta-binkytes-groundbreaking-research/",
+      "action": "Read the interview"
+    },
+    {
+      "id": "mokslo-sriuba",
+      "title": "AI ethics on Mokslo sriuba",
+      "host": "LRT Plius · Lithuanian national television",
+      "date": "2023-10",
+      "kind": "Television · Lithuanian",
+      "description": "An AI ethics segment in the 7 October episode of the popular science programme hosted by Ignas Kančys.",
+      "url": "https://www.lrt.lt/mediateka/irasas/2000296983/mokslo-sriuba-ypatingos-misijos-sekme-zeme-pasieke-siuntinys-is-kosmoso-su-asteroido-meginiais",
+      "action": "Watch the episode",
+      "photos": [
+        [
+          "lrt-mokslo-sriuba.webp",
+          "A still from my interview about AI ethics for the Lithuanian television programme Mokslo sriuba (Science Soup)."
+        ]
+      ]
+    },
+    {
+      "id": "lrt-interview",
+      "title": "Kaip algoritmai diskriminuoja žmones?",
+      "host": "LRT.lt",
+      "date": "2023-09",
+      "kind": "Interview · Lithuanian",
+      "description": "A conversation with Monika Augustaitytė about discrimination in algorithms used for healthcare, hiring and lending.",
+      "url": "https://www.lrt.lt/naujienos/mokslas-ir-it/11/2066083/etikos-klausimai-neaplenkia-ir-dirbtinio-intelekto-kaip-algoritmai-diskriminuoja-zmones",
+      "action": "Read the interview"
+    },
+    {
+      "id": "pause-talk",
+      "title": "PAUSE TALK with Dr Monica Nagpal",
+      "host": "PAUSE TALK · Episode 23",
+      "date": "2023",
+      "kind": "Video interview · English",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=7m7Df4C_ws8",
+      "action": "Watch the interview",
+      "image": "media-pause-talk.jpg"
+    },
+    {
+      "id": "heroines-journey",
+      "title": "The Heroine’s Journey of Ruta Binkyte",
+      "host": "The Heroine’s Journey",
+      "date": "2022-01",
+      "kind": "Interview · English",
+      "description": "A personal Q&A about research, creativity and the people who have influenced my work.",
+      "url": "https://theheroinejourney2016.com/2022/01/10/the-heroine-journey-of-ruta-binkyte/",
+      "action": "Read the interview"
+    }
+  ],
+  "cv": [
+    [
+      "Experience",
+      [
+        [
+          "Current",
+          "Senior Researcher and Deputy Lead, Efficient and Explainable AI (E&E) group",
+          "German Research Center for Artificial Intelligence (DFKI), Saarbrücken. Simon Ostermann is Group Lead. The group is part of the Multilinguality and Language Technology department.",
+          "https://www.dfki.de/en/web/research/research-departments/multilinguality-and-language-technology/ee-team"
+        ],
+        [
+          "2024–2026",
+          "Postdoctoral Researcher, Machine Learning Ethics",
+          "CISPA Helmholtz Center for Information Security, Saarbrücken. Research on fairness, safety, and multi-agent interaction with Mario Fritz."
+        ],
+        [
+          "2022–2023",
+          "Associate Professor in AI Ethics",
+          "Aivancity, Paris-Cachan. Co-designed and taught a graduate course on fair machine learning."
+        ],
+        [
+          "2020",
+          "Research Engineer",
+          "Inria Saclay. Worked on causal discovery and privacy-preserving machine learning."
+        ],
+        [
+          "2018–2019",
+          "Data Scientist",
+          "Sciences Po médialab, Paris. Studied digital art history using data from French museums."
+        ]
+      ]
+    ],
+    [
+      "Education",
+      [
+        [
+          "2020–2023",
+          "PhD in Computer Science",
+          "Institut Polytechnique de Paris, École Polytechnique and Inria Saclay. Research on fairness, causality, and privacy, supervised by Catuscia Palamidessi."
+        ],
+        [
+          "2017–2020",
+          "MSc with Distinction, Data Science, Technology and Innovation",
+          "University of Edinburgh."
+        ],
+        [
+          "2006–2008",
+          "MA in History",
+          "Vilnius University."
+        ],
+        [
+          "2002–2006",
+          "BA in Sociocultural History and Anthropology",
+          "Vilnius University."
+        ]
+      ]
+    ],
+    [
+      "Research grants",
+      [
+        [
+          "2026",
+          "Coefficient Giving grant for AI Deception Dynamics",
+          "Principal investigator. We study deception in the behaviour and internal representations of language-model agents.",
+          "projects#deception"
+        ],
+        [
+          "2025",
+          "DFG International Collaboration grant",
+          "Principal investigator. With CSIRO’s Data61 and Macquarie University in Australia, I study how to attribute contributions in human–AI co-creation.",
+          "projects#australia"
+        ]
+      ]
+    ],
+    [
+      "Awards and honours",
+      [
+        [
+          "2025",
+          "AI Publication of the Year nomination",
+          "The Artificial Intelligence Association of Lithuania nominated my paper “Interactional Fairness in LLM Multi-Agent Systems: An Evaluation Framework”."
+        ],
+        [
+          "2025",
+          "100 Brilliant Women in AI Ethics",
+          "Named to the annual list by Women in AI Ethics.",
+          "https://womeninaiethics.org/the-list/of-2025/"
+        ],
+        [
+          "2020–2021",
+          "Google Women Techmakers Scholar",
+          "Scholarship for academic achievement and leadership in expanding women’s participation in computing."
+        ],
+        [
+          "2020",
+          "MSc with Distinction, University of Edinburgh",
+          "Awarded for the MSc in Data Science, Technology and Innovation."
+        ]
+      ]
+    ],
+    [
+      "Teaching",
+      [
+        [
+          "July 2027",
+          "Summer school, Durham University",
+          "Invited to teach at the summer school in Durham."
+        ],
+        [
+          "Aug 2026",
+          "Bias and Safety in AI",
+          "Summer school lecture at the Probabilistic AI School in Vilnius. On 7 August I taught the final session on bias, fairness and safety in AI, with a hands-on notebook.",
+          "https://www.youtube.com/watch?v=yazyhBDT0Lg"
+        ],
+        [
+          "2022–2023",
+          "Fair Machine Learning, Aivancity",
+          "Co-designed and taught the graduate course at Aivancity School for Technology, Business & Society, Paris-Cachan."
+        ],
+        [
+          "2021–2022",
+          "Python programming, École Polytechnique",
+          "Teaching assistant for the introductory programming course in Paris."
+        ]
+      ]
+    ],
+    [
+      "School outreach",
+      [
+        [
+          "11 Oct 2025",
+          "Kids Vibe Code Hackathon, I2SC",
+          "Mentored children using AI to build their own coding projects at the Interdisciplinary Institute for Societal Computing, Saarland University.",
+          "https://kidsaicoding.com/kids-hackathon-worldwide"
+        ],
+        [
+          "2021–2022",
+          "Data Science Mentor, Teachers Lead Tech",
+          "Mentored primary school pupils through an award-winning data science programme in Lithuanian schools.",
+          "https://www.vedliai.lt/kaip-mokomes"
+        ],
+        [
+          "2018",
+          "Big Small Screens",
+          "Wrote learning materials on media and algorithms for secondary school pupils with Meno Avilys and the British Council in Lithuania.",
+          "https://menoavilys.org/naujas/wp-content/uploads/2023/08/SOC-TINKLAI-3-case.pdf"
+        ]
+      ]
+    ],
+    [
+      "Academic and community service",
+      [
+        [
+          "2027",
+          "Programme Chair, European Conference on Algorithmic Fairness",
+          "ECAF takes place in Vilnius on 25–27 August 2027.",
+          "https://2027.ecafconference.org/organization"
+        ],
+        [
+          "2025",
+          "Elected Postdoc Representative, CISPA",
+          "Represented postdoctoral researchers at the Helmholtz Center for Information Security."
+        ],
+        [
+          "2025",
+          "Co-founder, Women in AI Lithuania",
+          "Helped establish the Lithuanian chapter of Women in AI and coordinated its academic partnerships.",
+          "https://www.linkedin.com/company/women-in-ai-lithuania/"
+        ],
+        [
+          "2024",
+          "Diversity and Inclusion Chair, ECML PKDD",
+          "Served as the conference’s Diversity and Inclusion Chair in Vilnius.",
+          "https://ecmlpkdd.org/2024/organisation-chairs/"
+        ],
+        [
+          "2024",
+          "Postdoc Perspectives, Helmholtz Association Postdoc Network",
+          "Member of the steering committee and working group."
+        ],
+        [
+          "2024",
+          "Advisory Board Member, Savannah Digital Research Institute",
+          "Advised on interdisciplinary research and research funding.",
+          "https://sdri.tech/advisory-board/"
+        ],
+        [
+          "2021–2024",
+          "Board Member, Lithuanian Professionals in Paris",
+          "Served on the board of the professional network."
+        ]
+      ]
+    ],
+    [
+      "Event Organization",
+      [
+        [
+          "7 May 2026",
+          "Towards Integrated Understanding of Trustworthy AI",
+          "Co-organised the ELSA General Assembly workshop with Joonas Jälkö on how fairness, privacy, robustness and explainability interact. Keynote speakers included Catuscia Palamidessi, Plamen Angelov and Antoine Gautier.",
+          "https://elsa-ai.eu/elsa-general-assembly-2026-workshop-towards-integrated-understanding-of-trustworthy-ai/"
+        ],
+        [
+          "18 Jun 2025",
+          "Trade-offs in Trustworthy AI",
+          "Organised and moderated an ELSA General Assembly panel in Brussels on how improving one property of an AI system can come at the expense of another. Panellists included Antti Honkela, Plamen Angelov, Battista Biggio and Antoine Gautier.",
+          "https://elsa-ai.eu/recap-of-the-2025-elsa-general-assembly/"
+        ],
+        [
+          "16–21 Mar 2025",
+          "ELSA Workshop on Privacy-Preserving Machine Learning",
+          "Co-organised the Bertinoro workshop on privacy-preserving machine learning, with a focus on federated learning and the trade-offs between privacy, accuracy and efficiency.",
+          "https://www.lix.polytechnique.fr/wppml/"
+        ],
+        [
+          "Sept 2024",
+          "Diversity and Inclusion Panel, ECML PKDD",
+          "Organised and moderated a panel in Vilnius with Karolina Griciūnė, Ana Peleteiro Ramallo and Gintare Karolina Dziugaite on barriers to participation in AI research and how research communities can address them."
+        ],
+        [
+          "11 Sept 2024",
+          "Women’s Networking Night and Food Art Performance, ECML PKDD",
+          "Organised an evening with food artist Giedrė Selenytė at the National Gallery of Art in Vilnius. Erika Kuročkina, then Lithuania’s Vice-Minister of the Economy and Innovation, gave the opening remarks.",
+          "https://ecmlpkdd.org/2024/program-evening-events/"
+        ],
+        [
+          "23–24 Nov 2023",
+          "Second Comète Workshop on Ethical AI",
+          "Co-organised the Inria workshop in Palaiseau on how fairness, privacy, explainability and robustness can come into conflict.",
+          "https://www.lix.polytechnique.fr/ethicalai/"
+        ],
+        [
+          "Sept 2022",
+          "Comète Workshop on Ethical AI",
+          "Co-organised the first edition with the Comète team at Inria Saclay. The programme included talks on bias in algorithms and fair ranking."
+        ],
+        [
+          "2021",
+          "Workshop on AI justice, equity and algorithmic discrimination",
+          "Co-organised an interdisciplinary workshop bringing together researchers in computer science, law and social science in Paris.",
+          "https://cis.cnrs.fr/justice-sociale-equite-et-discriminations-algorithmiques/"
+        ]
+      ]
+    ],
+    [
+      "Peer review and programme committees",
+      [
+        [
+          "2026",
+          "AIES",
+          "Reviewer for the AAAI/ACM Conference on AI, Ethics, and Society."
+        ],
+        [
+          "2026",
+          "IASEAI",
+          "Reviewer for the International Association for Safe and Ethical AI conference."
+        ],
+        [
+          "2025",
+          "EU Digital Technologies and Policies (EUDTP)",
+          "Programme committee member."
+        ],
+        [
+          "2024",
+          "ACM FAccT",
+          "Reviewer for the ACM Conference on Fairness, Accountability, and Transparency."
+        ],
+        [
+          "2023",
+          "SDS and the European Workshop on Algorithmic Fairness",
+          "Programme committee member for SDS and EWAF."
+        ]
+      ]
+    ]
+  ],
+  "topics": [
+    "Deception and interpretability",
+    "Multi-agent interaction",
+    "Fairness and causality",
+    "Privacy",
+    "AI for science",
+    "Contribution attribution",
+    "Disinformation and media literacy",
+    "Multilingual AI",
+    "Other"
+  ],
+  "types": [
+    "Research collaboration",
+    "Paid internship",
+    "Thesis or student project",
+    "Industry partnership",
+    "Speaking invitation",
+    "Other enquiry"
+  ],
+  "featuredPapers": [
+    "interactional",
+    "invariance",
+    "inspectable",
+    "judgment"
+  ],
+  "serviceMedia": {
+    "Women’s Networking Night and Food Art Performance, ECML PKDD": {
+      "id": "ecml-womens-night",
+      "photos": [
+        [
+          "ecml-food-art-guests.webp",
+          "With food artist Giedrė Selenytė and Vice-Minister Erika Kuročkina at the Women’s Networking Night."
+        ],
+        [
+          "ecml-food-artists.webp",
+          "Introducing the evening with food artist Giedrė Selenytė at the National Gallery of Art in Vilnius."
+        ],
+        [
+          "ecml-food-opening-remarks.webp",
+          "Erika Kuročkina, then Lithuania’s Vice-Minister of the Economy and Innovation, gives the opening remarks."
+        ],
+        [
+          "ecml-food-installation.webp",
+          "Preparing the suspended pieces for the food-art installation."
+        ],
+        [
+          "ecml-food-arranging.webp",
+          "Hanging a piece of the installation before guests arrive."
+        ],
+        [
+          "ecml-food-display.webp",
+          "The food-art installation at the National Gallery of Art, with pieces hanging above the serving tables."
+        ],
+        [
+          "ecml-food-guests-tasting.webp",
+          "Guests explore the hanging installation during the food-art performance."
+        ],
+        [
+          "ecml-food-performance.webp",
+          "Adding a sprig of greenery to a dish in the food-art performance."
+        ],
+        [
+          "ecml-food-textures.webp",
+          "Berries, coloured crumbs and a fine net form part of the edible display."
+        ]
+      ]
+    },
+    "Diversity and Inclusion Panel, ECML PKDD": {
+      "id": "ecml-diversity",
+      "photos": [
+        [
+          "ecml-diversity-panel.webp",
+          "After the panel with speakers Karolina Griciūnė, Ana Peleteiro Ramallo and Gintare Karolina Dziugaite, and fellow organisers Kamilė Dementavičiūtė and Mariam Barry."
+        ],
+        [
+          "ecml-diversity-discussion.webp",
+          "Moderating the Diversity and Inclusion Panel at ECML PKDD in Vilnius."
+        ],
+        [
+          "ecml-diversity-lectern.webp",
+          "Addressing the audience at the Diversity and Inclusion Panel."
+        ]
+      ]
+    },
+    "Trade-offs in Trustworthy AI": {
+      "id": "elsa-tradeoffs",
+      "photos": [
+        [
+          "elsa-tradeoffs-panel.webp",
+          "Introducing the Trade-offs in Trustworthy AI panel at the ELSA General Assembly in Brussels."
+        ]
+      ]
+    },
+    "Towards Integrated Understanding of Trustworthy AI": {
+      "photos": [
+        [
+          "elsa-integrated-workshop-group.webp",
+          "Participants at the Towards Integrated Understanding of Trustworthy AI workshop at CISPA in Saarbrücken, 7 May 2026."
+        ]
+      ]
+    }
+  },
+  "teachingResources": {
+    "Bias and Safety in AI": {
+      "links": [
+        [
+          "Slides",
+          "https://github.com/probabilisticai/probai-2026/blob/main/day-5/Bias_and_Safety_ProbAI_RutaBinkyte_2026.pdf"
+        ],
+        [
+          "Notebook",
+          "https://colab.research.google.com/drive/1GRlk9I6Mhm4agYgxkNELuPxgfYjI0_jv?usp=sharing"
+        ]
+      ]
+    }
+  },
+  "bioSections": [
+    {
+      "heading": "Research",
+      "paragraphs": [
+        [
+          "I study ",
+          [
+            "how communication style shapes agents’ decisions",
+            "https://ojs.aaai.org/index.php/AIES/article/view/36563"
+          ],
+          " (",
+          {
+            "strong": "AIES 2025, oral presentation"
+          },
+          ") and ",
+          [
+            "how causal reasoning can help reconcile fairness, privacy and robustness",
+            "https://proceedings.mlr.press/v306/binkyte26a.html"
+          ],
+          " (",
+          {
+            "strong": "ICML 2026, position paper"
+          },
+          "). I combine behavioural experiments with interpretability methods to study these questions."
+        ],
+        [
+          "I also study how to attribute contributions in human–AI and AI–AI teams. Our AI as a Research Object (AI-RO) paper shows ",
+          [
+            "how recording prompts, configurations and outputs makes AI’s role in scientific writing inspectable",
+            "https://doi.org/10.1109/SPW72489.2026.00039"
+          ],
+          " (",
+          {
+            "strong": "MetaCRiSP at IEEE S&P 2026"
+          },
+          ")."
+        ]
+      ]
+    },
+    {
+      "heading": "Background",
+      "paragraphs": [
+        [
+          "I studied sociocultural history and anthropology at Vilnius University, then earned an ",
+          {
+            "strong": "MSc with Distinction"
+          },
+          " in Data Science, Technology and Innovation at the University of Edinburgh. I completed my PhD in computer science at École Polytechnique with ",
+          [
+            "Catuscia Palamidessi",
+            "https://researchportal.ip-paris.fr/en/persons/catuscia-palamidessi/"
+          ],
+          " at Inria Saclay, and did my postdoctoral research with ",
+          [
+            "Mario Fritz",
+            "https://cispa.de/en/people/mario.fritz"
+          ],
+          " at CISPA."
+        ],
+        [
+          "I’m a programme chair for the ",
+          [
+            "2027 European Conference on Algorithmic Fairness",
+            "https://2027.ecafconference.org/organization"
+          ],
+          " in Vilnius and served as diversity and inclusion chair at ",
+          [
+            "ECML PKDD 2024",
+            "https://ecmlpkdd.org/2024/organisation-chairs/"
+          ],
+          "."
+        ]
+      ]
+    },
+    {
+      "heading": "Awards",
+      "paragraphs": [
+        [
+          "A ",
+          {
+            "strong": "Coefficient Giving grant"
+          },
+          " supports my work on AI Deception Dynamics. A ",
+          {
+            "strong": "DFG International Collaboration grant"
+          },
+          " supports my work on contribution attribution with CSIRO’s Data61 and Macquarie University in Australia."
+        ],
+        [
+          "I received a ",
+          {
+            "strong": "Google Women Techmakers Scholarship"
+          },
+          " (2020–21) and was named one of the ",
+          {
+            "strong": "100 Brilliant Women in AI Ethics",
+            "url": "https://womeninaiethics.org/the-list/of-2025/"
+          },
+          " in 2025.",
+          " The Artificial Intelligence Association of Lithuania nominated my work on interactional fairness for AI Publication of the Year 2025."
+        ]
+      ]
+    }
+  ],
+  "appearance": {
+    "mark": "diamond",
+    "headings": "serif"
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "author_id": "ujrfUKIAAAAJ",
+  "updated": "2026-11-21",
+  "source": "Author-supplied Google Scholar profile, articles 1–30",
+  "articles": [
+    {
+      "title": "Justice in judgment: Unveiling (hidden) bias in llm-assisted peer reviews",
+      "authors": "SSM Vasu, I Sheth, HP Wang, R Binkyte, M Fritz",
+      "venue": "Association for Computational Linguistics (ACL) Findings",
+      "year": 2025,
+      "work_id": "judgment",
+      "url": "https://aclanthology.org/2026.findings-acl.14/"
+    },
+    {
+      "title": "Causal Discovery for Fairness",
+      "authors": "R Binkytė, K Makhlouf, C Pinzón, S Zhioua, C Palamidessi",
+      "venue": "Proceedings of Machine Learning Research 214, 7–22",
+      "year": 2023,
+      "work_id": "discovery",
+      "url": "https://proceedings.mlr.press/v214/binkyte23a.html"
+    },
+    {
+      "title": "Gender and sex bias in COVID-19 epidemiological data through the lens of causality",
+      "authors": "N Díaz-Rodríguez, R Binkytė, W Bakkali, S Bookseller, P Tubaro, ...",
+      "venue": "Information Processing & Management 60 (3), 103276",
+      "year": 2023,
+      "work_id": "covid-bias",
+      "url": "https://doi.org/10.1016/j.ipm.2023.103276"
+    },
+    {
+      "title": "LLM4GRN: Discovering Causal Gene Regulatory Networks with LLMs - Evaluation through Synthetic Data Generation",
+      "authors": "T Afonja, I Sheth, R Binkyte, W Hanif, T Ulas, M Becker, M Fritz",
+      "venue": "MLGenX 2025@ICLR",
+      "year": 2024,
+      "work_id": "grn",
+      "url": "https://openreview.net/forum?id=bgGZIBF6Kx"
+    },
+    {
+      "title": "Causal discovery for fairness",
+      "authors": "R Binkyte-Sadauskiene, K Makhlouf, C Pinzón, S Zhioua, C Palamidessi",
+      "venue": "CoRR abs/2206.06685",
+      "year": 2022,
+      "work_id": "discovery",
+      "url": "https://arxiv.org/abs/2206.06685"
+    },
+    {
+      "title": "Causality is key to understand and balance multiple goals in trustworthy ml and foundation models",
+      "authors": "R Binkyte, I Sheth, Z Jin, M Havaei, B Schölkopf, M Fritz",
+      "venue": "arXiv preprint arXiv:2502.21123",
+      "year": 2025,
+      "work_id": "invariance",
+      "url": "https://arxiv.org/abs/2502.21123"
+    },
+    {
+      "title": "Interactional Fairness in LLM Multi-Agent Systems: An Evaluation Framework",
+      "authors": "R Binkyte",
+      "venue": "Proceedings of the Eighth AAAI/ACM Conference on AI, Ethics, and Society",
+      "year": 2025,
+      "work_id": "interactional",
+      "url": "https://ojs.aaai.org/index.php/AIES/article/view/36563"
+    },
+    {
+      "title": "Position: Safety Must Precede the Deployment of Open-Ended AI Agents",
+      "authors": "I Sheth, J Wehner, S Abdelnabi, R Binkyte, M Fritz",
+      "venue": "Forty-third International Conference on Machine Learning Position Paper Track",
+      "year": 2026,
+      "work_id": "open-ended",
+      "url": "https://proceedings.mlr.press/v306/sheth26a.html"
+    },
+    {
+      "title": "Revisiting Sampling Bias: Implications on Fairness Measurement and Mitigation",
+      "authors": "S Zhioua, R Binkyte, A Ouni, FB Ktata",
+      "venue": "",
+      "year": 2025,
+      "work_id": "sampling-bias",
+      "url": "https://doi.org/10.21203/rs.3.rs-6332112/v1"
+    },
+    {
+      "title": "Babe: Enhancing fairness via estimation of explaining variables",
+      "authors": "R Binkyte, D Gorla, C Palamidessi",
+      "venue": "Proceedings of the 2024 ACM Conference on Fairness, Accountability, and Transparency",
+      "year": 2024,
+      "work_id": "babe",
+      "url": "https://doi.org/10.1145/3630106.3659016"
+    },
+    {
+      "title": "Causal discovery under local privacy",
+      "authors": "R Binkyte, CA Pinzón, S Lestyán, K Jung, HH Arcolezi, C Palamidessi",
+      "venue": "Causal Learning and Reasoning, 325–383",
+      "year": 2024,
+      "work_id": "privacy",
+      "url": "https://proceedings.mlr.press/v236/binkyte24a.html"
+    },
+    {
+      "title": "Inspectable AI for Science: A Research Object Approach to Generative AI Governance",
+      "authors": "R Binkyte, S Abuaddba, C Mahawaga, M Ding, N Fernandes, M Fritz",
+      "venue": "MetaCRiSP@IEEE Security&Privacy",
+      "year": 2026,
+      "work_id": "inspectable",
+      "url": "https://doi.org/10.1109/SPW72489.2026.00039"
+    },
+    {
+      "title": "Distant Reading and Viewing: “Big Questions” in Digital Art History and Digital Literary Studies",
+      "authors": "R Binkyte",
+      "venue": "Digital Humanities Quarterly 17 (2)",
+      "year": 2023,
+      "work_id": "art",
+      "url": "https://dhq-static.digitalhumanities.org/pdf/000686.pdf"
+    },
+    {
+      "title": "Community benchmarking of generative models for privacy-preserving synthetic bulk RNA-seq data generation",
+      "authors": "H Öztürk, T Afonja, J Jälkö, R Binkyte, P Rodriguez-Mier, S Lobentanzer, ...",
+      "venue": "Genome Biology",
+      "year": 2026,
+      "work_id": "synthetic-rna",
+      "url": "https://doi.org/10.1186/s13059-026-04326-1"
+    },
+    {
+      "title": "On the Need and Applicability of Causality for Fairness: A Unified Framework for AI Auditing and Legal Analysis",
+      "authors": "R Binkyte, L Grozdanovski, S Zhioua",
+      "venue": "arXiv preprint arXiv:2207.04053",
+      "year": 2022,
+      "work_id": "legal",
+      "url": "https://arxiv.org/abs/2207.04053"
+    },
+    {
+      "title": "The Jewish village of Degsnė: a case study",
+      "authors": "R Binkytė, M Jakulytė-Vasil, G Jokubauskis",
+      "venue": "Jewish space in Central and Eastern Europe, 185–193, 325",
+      "year": 2007,
+      "work_id": "degsne",
+      "url": "https://www.lituanistika.lt/content/32462"
+    },
+    {
+      "title": "Advancing Ethical AI: Methods for fairness enhancement leveraging on causality and under privacy constraints",
+      "authors": "R Binkytė",
+      "venue": "Ecole Polytechnique (EDX)",
+      "year": 2023,
+      "work_id": "thesis",
+      "url": "https://polytechnique.hal.science/tel-04407125/"
+    },
+    {
+      "title": "Dissecting Causal Biases",
+      "authors": "R Binkytė, S Zhioua, Y Turki",
+      "venue": "arXiv preprint arXiv:2310.13364",
+      "year": 2023,
+      "work_id": "dissecting-biases",
+      "url": "https://arxiv.org/abs/2310.13364"
+    },
+    {
+      "title": "Dissecting Causal Biases",
+      "authors": "R Binkyte, S Zhioua, Y Turki",
+      "venue": "Available at SSRN 5290733",
+      "year": 2023,
+      "work_id": "dissecting-biases",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5290733"
+    },
+    {
+      "title": "Rewarded for not getting caught: Why alignment training selects for conditional compliance and cannot instill norms",
+      "authors": "K Baum, R Binkytė, G Großmann, F Jahn, A Mannino",
+      "venue": "arXiv preprint arXiv:2611.02162",
+      "year": 2026,
+      "work_id": "compliance",
+      "url": "https://arxiv.org/abs/2611.02162"
+    },
+    {
+      "title": "Norms at a Price: Why RL-Based Alignment Can Promise Conditional Compliance at Best",
+      "authors": "K Baum, R Binkytė, F Jahn",
+      "venue": "FAST@NeurIPS'26",
+      "year": 2026,
+      "work_id": "norms-price",
+      "url": "https://arxiv.org/abs/2609.07627"
+    },
+    {
+      "title": "Position: Trustworthy AI Suffers from Invariance Conflicts and Causality is the Solution",
+      "authors": "R Binkyte, I Sheth, Z Jin, M Havaei, B Schölkopf, M Fritz",
+      "venue": "Forty-third International Conference on Machine Learning Position Paper Track",
+      "year": 2026,
+      "work_id": "invariance",
+      "url": "https://proceedings.mlr.press/v306/binkyte26a.html"
+    },
+    {
+      "title": "The trustworthiness landscape in machine learning: a conceptual guide with applications in medicine",
+      "authors": "K Lenhof, LM Rolli, L Buhr, S Roth, R Binkyte-Sadauskiene, S Schicktanz, ...",
+      "venue": "Preprint",
+      "year": 2025,
+      "work_id": "trustworthiness-medicine",
+      "url": "https://doi.org/10.5281/zenodo.17591544"
+    },
+    {
+      "title": "Style over Substance? Linguistic Bias in LLM-based Peer Review",
+      "authors": "SSM Vasu, SS Joshi, P Christmann, I Sheth, R Binkyte, KD Chowdhury, ...",
+      "venue": "arXiv preprint arXiv:2610.35254",
+      "year": 2026,
+      "work_id": "linguistic-bias",
+      "url": "https://arxiv.org/abs/2610.35254"
+    },
+    {
+      "title": "FIGS: Evaluating Multi-Turn Sycophancy Without Penalizing Empathy",
+      "authors": "S Pulipaka, R Binkyte, I Sheth, S Abdelnabi",
+      "venue": "arXiv preprint arXiv:2609.39863",
+      "year": 2026,
+      "work_id": "figs",
+      "url": "https://arxiv.org/abs/2609.39863"
+    },
+    {
+      "title": "Last Translation Benchmark",
+      "authors": "V Zouhar, N Bafna, M Choudhary, M Züfle, S Rajaee, P Chen, J Vamvas, ...",
+      "venue": "arXiv preprint arXiv:2609.04173",
+      "year": 2026,
+      "work_id": "last-translation",
+      "url": "https://arxiv.org/abs/2609.04173"
+    },
+    {
+      "title": "Predicting COVID-19 incidence from seroprevalence and population-based cohort data using interpretable machine learning with differential privacy analysis",
+      "authors": "J Krepel, R Binkyte, R Kerkouche, M Harries, CJ Klett-Tammen, M Fritz, ...",
+      "venue": "medRxiv, 2026.04.01.26349876",
+      "year": 2026,
+      "work_id": "covid-incidence",
+      "url": "https://doi.org/10.64898/2026.04.01.26349876"
+    },
+    {
+      "title": "Improving predictive ability for epidemic situations by developing optimal variable sets for epidemic panels using Machine Learning methods",
+      "authors": "J Krepel, M Harries, A Bazarova, R Binkyte-Sadauskiene, ...",
+      "venue": "Helmholtz AI Conference 2025",
+      "year": 2025,
+      "work_id": "epidemic-panels",
+      "url": "https://juser.fz-juelich.de/record/1052321"
+    },
+    {
+      "title": "Data for Causal Mediation Analysis",
+      "authors": "R Binkyte",
+      "venue": "https://zenodo.org/records/16359243",
+      "year": 2025,
+      "work_id": "mediation-data",
+      "url": "https://zenodo.org/records/16359243"
+    },
+    {
+      "title": "Alvolution-al and digital technologies in the European Union",
+      "authors": "E Poptcheva, B Vanderborght, M Colom, R Binkytė, O Balalau, O Goga, ...",
+      "venue": "",
+      "year": 2024,
+      "work_id": "aivolution",
+      "url": "https://hal.science/hal-04645463"
+    }
+  ]
+}

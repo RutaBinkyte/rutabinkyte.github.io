@@ -1,0 +1,19 @@
+{
+  "/publications": "papers",
+  "/cv": "cv",
+  "/pages/about": "home",
+  "/pages/6286": "service",
+  "/posts": "home",
+  "/posts/4488-new-paper-interactional-fairness-in-multi-agent-llm-systems": "papers#interactional",
+  "/publications/43213-causality-is-key-to-understand-and-balance-multiple-goals-in-trustworthy-ml-and-foundation-models": "papers#invariance",
+  "/publications/52572-interactional-fairness-in-llm-multi-agent-systems-an-evaluation-framework": "papers#interactional",
+  "/publications/52574-justice-in-judgment-unveiling-hidden-bias-in-llm-assisted-peer-reviews": "papers#judgment",
+  "/publications/43212-safety-is-essential-for-responsible-open-ended-systems": "papers#open-ended",
+  "/publications/36196-babe-enhancing-fairness-via-estimation-of-explaining-variables": "papers#babe",
+  "/publications/36195-causal-discovery-under-local-privacy": "papers#privacy",
+  "/publications/38896-llm4grn-discovering-causal-gene-regulatory-networks-with-llms-evaluation-through-synthetic-data-generation": "papers#grn",
+  "/publications/36200-advancing-ethical-ai-methods-for-fairness-enhancement-leveraging-on-causality-and-under-privacy-constraints-advancing-ethical-ai-methods-for-fairness-enhancement-leveraging-on-causality-and-under-privacy-constraints": "papers#thesis",
+  "/publications/43939-causal-discovery-for-fairness": "papers#discovery",
+  "/publications/36198-distant-reading-and-viewing-big-questions-in-digital-art-history-and-digital-literary-studies": "papers#art",
+  "/publications/36201-on-the-need-and-applicability-of-causality-for-fair-machine-learning": "papers#legal"
+}

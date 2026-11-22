@@ -1,0 +1,760 @@
+[
+  {
+    "id": "compliance",
+    "year": 2026,
+    "title": "Rewarded for Not Getting Caught: Why Alignment Training Selects for Conditional Compliance and Cannot Instill Norms",
+    "authors": [
+      "Kevin Baum",
+      "Ruta Binkytė",
+      "Gerrit Großmann",
+      "Felix Jahn",
+      "Adriano Mannino"
+    ],
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2611.02162",
+    "summary": "Examines why rewarding observable compliance can favor agents that behave differently when oversight is absent."
+  },
+  {
+    "id": "invariance",
+    "year": 2026,
+    "title": "Position: Trustworthy AI Suffers from Invariance Conflicts and Causality is The Solution",
+    "authors": [
+      "Ruta Binkyte",
+      "Ivaxi Sheth",
+      "Zhijing Jin",
+      "Mohammad Havaei",
+      "Bernhard Schölkopf",
+      "Mario Fritz"
+    ],
+    "venue": "ICML",
+    "url": "https://proceedings.mlr.press/v306/binkyte26a.html",
+    "summary": "Uses causal models to explain when fairness, privacy, and robustness place conflicting demands on a prediction system.",
+    "aliases": [
+      "Trustworthy AI Suffers from Invariance Conflicts and Causality is The Solution",
+      "Causality Is Key to Understand and Balance Multiple Goals in Trustworthy ML and Foundation Models"
+    ],
+    "versions": [
+      [
+        "2025 preprint · Causality Is Key to Understand and Balance Multiple Goals in Trustworthy ML and Foundation Models",
+        "https://arxiv.org/abs/2502.21123"
+      ]
+    ]
+  },
+  {
+    "id": "judgment",
+    "year": 2026,
+    "title": "Justice in Judgment: Unveiling (Hidden) Bias in LLM-assisted Peer Reviews",
+    "authors": [
+      "Sai Suresh Macharla Vasu",
+      "Ivaxi Sheth",
+      "Hui-Po Wang",
+      "Ruta Binkyte",
+      "Mario Fritz"
+    ],
+    "venue": "ACL Findings",
+    "url": "https://aclanthology.org/2026.findings-acl.14/",
+    "summary": "Changes author metadata while holding the manuscript fixed to test what influences an AI-assisted review.",
+    "versions": [
+      [
+        "2025 preprint",
+        "https://arxiv.org/abs/2509.13400"
+      ]
+    ]
+  },
+  {
+    "id": "open-ended",
+    "year": 2026,
+    "title": "Position: Safety Must Precede the Deployment of Open-Ended AI Agents",
+    "authors": [
+      "Ivaxi Sheth",
+      "Jan Wehner",
+      "Sahar Abdelnabi",
+      "Ruta Binkyte",
+      "Mario Fritz"
+    ],
+    "venue": "ICML",
+    "url": "https://proceedings.mlr.press/v306/sheth26a.html",
+    "summary": "Considers the safety questions raised by agents that keep developing new behaviors after deployment.",
+    "aliases": [
+      "Safety is Essential for Responsible Open-Ended Systems",
+      "Safety Must Precede the Deployment of Open-Ended AI",
+      "Safety Must Precede the Deployment of Open-Ended AI Agents"
+    ]
+  },
+  {
+    "id": "inspectable",
+    "year": 2026,
+    "title": "Inspectable AI for Science: A Research Object Approach to Generative AI Governance",
+    "authors": [
+      "Ruta Binkyte",
+      "Sharif Abuaddba",
+      "Chamikara Mahawaga",
+      "Ming Ding",
+      "Natasha Fernandes",
+      "Mario Fritz"
+    ],
+    "venue": "MetaCRiSP · IEEE Security and Privacy Workshops",
+    "url": "https://doi.org/10.1109/SPW72489.2026.00039",
+    "summary": "Introduces AI as a Research Object (AI-RO) and demonstrates how prompts, model configurations and outputs can document AI’s contribution to scientific writing."
+  },
+  {
+    "id": "interactional",
+    "year": 2025,
+    "title": "Interactional Fairness in LLM Multi-Agent Systems: An Evaluation Framework",
+    "authors": [
+      "Ruta Binkyte"
+    ],
+    "venue": "AIES · Oral presentation",
+    "url": "https://ojs.aaai.org/index.php/AIES/article/view/36563",
+    "summary": "Adapts measures of interpersonal respect and quality of explanations from organizational psychology to evaluate conversations between agents."
+  },
+  {
+    "id": "babe",
+    "year": 2024,
+    "title": "BaBE: Enhancing Fairness via Estimation of Explaining Variables",
+    "authors": [
+      "Ruta Binkyte",
+      "Daniele Gorla",
+      "Catuscia Palamidessi"
+    ],
+    "venue": "ACM FAccT",
+    "url": "https://doi.org/10.1145/3630106.3659016",
+    "summary": "Estimates unobserved explanatory variables to address measurement bias in decisions.",
+    "aliases": [
+      "BaBE: Enhancing Fairness via Estimation of Latent Explaining Variables"
+    ]
+  },
+  {
+    "id": "privacy",
+    "year": 2024,
+    "title": "Causal Discovery Under Local Privacy",
+    "authors": [
+      "Ruta Binkyte",
+      "Carlos Antonio Pinzón",
+      "Szilvia Lestyán",
+      "Kangsoo Jung",
+      "Héber Hwang Arcolezi",
+      "Catuscia Palamidessi"
+    ],
+    "venue": "CLeaR",
+    "url": "https://proceedings.mlr.press/v236/binkyte24a.html",
+    "summary": "Studies how noise introduced for local differential privacy changes the causal graphs learned from data."
+  },
+  {
+    "id": "grn",
+    "year": 2025,
+    "title": "LLM4GRN: Discovering Causal Gene Regulatory Networks with LLMs – Evaluation through Synthetic Data Generation",
+    "authors": [
+      "Tejumade Afonja",
+      "Ivaxi Sheth",
+      "Ruta Binkyte",
+      "Waqar Hanif",
+      "Shubhi Ambast",
+      "Charles Mwangi Kaumbutha",
+      "Matthias Becker",
+      "Mario Fritz"
+    ],
+    "venue": "MLGenX workshop at ICLR",
+    "url": "https://openreview.net/forum?id=bgGZIBF6Kx",
+    "summary": "Evaluates how language models can contribute prior knowledge to causal network discovery.",
+    "versions": [
+      [
+        "2024 preprint",
+        "https://arxiv.org/abs/2410.15828"
+      ]
+    ]
+  },
+  {
+    "id": "discovery",
+    "year": 2023,
+    "title": "Causal Discovery for Fairness",
+    "authors": [
+      "Ruta Binkyte",
+      "Karima Makhlouf",
+      "Carlos Pinzón",
+      "Sami Zhioua",
+      "Catuscia Palamidessi"
+    ],
+    "venue": "PMLR · Algorithmic Fairness through the Lens of Causality and Privacy",
+    "url": "https://proceedings.mlr.press/v214/binkyte23a.html",
+    "summary": "Examines how the choice of causal discovery method changes the conclusions of a fairness audit.",
+    "versions": [
+      [
+        "2022 preprint",
+        "https://arxiv.org/abs/2206.06685"
+      ]
+    ]
+  },
+  {
+    "id": "art",
+    "year": 2023,
+    "title": "Distant Reading and Viewing: “Big Questions” in Digital Art History and Digital Literary Studies",
+    "authors": [
+      "Ruta Binkytė"
+    ],
+    "venue": "Digital Humanities Quarterly",
+    "url": "https://dhq-static.digitalhumanities.org/pdf/000686.pdf",
+    "summary": "Examines which humanities questions become accessible when scholars work with large image and text collections."
+  },
+  {
+    "id": "thesis",
+    "year": 2023,
+    "title": "Advancing Ethical AI: Methods for Fairness Enhancement Leveraging on Causality and under Privacy Constraints",
+    "authors": [
+      "Ruta Binkyte"
+    ],
+    "venue": "PhD thesis · Institut Polytechnique de Paris",
+    "url": "https://polytechnique.hal.science/tel-04407125/",
+    "summary": "Doctoral research on causal methods for fairness and the implications of privacy constraints."
+  },
+  {
+    "id": "legal",
+    "year": 2022,
+    "title": "On the Need and Applicability of Causality for Fairness: A Unified Framework for AI Auditing and Legal Analysis",
+    "authors": [
+      "Ruta Binkyte",
+      "Ljupcho Grozdanovski",
+      "Sami Zhioua"
+    ],
+    "venue": "arXiv preprint · revised 2025",
+    "url": "https://arxiv.org/abs/2207.04053",
+    "summary": "Connects causal reasoning in fairness audits to the evidentiary questions that arise in discrimination cases.",
+    "aliases": [
+      "On the need and applicability of causality for fair machine learning"
+    ]
+  },
+  {
+    "id": "figs",
+    "year": 2026,
+    "title": "FIGS: Evaluating Multi-Turn Sycophancy Without Penalizing Empathy",
+    "authors": [
+      "Sidharth Pulipaka",
+      "Ruta Binkyte",
+      "Ivaxi Sheth",
+      "Sahar Abdelnabi"
+    ],
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2609.39863",
+    "summary": ""
+  },
+  {
+    "id": "sampling-bias",
+    "year": 2025,
+    "title": "Revisiting Sampling Bias: Implications on Fairness Measurement and Mitigation",
+    "authors": [
+      "Sami Zhioua",
+      "Ruta Binkyte",
+      "Ayoub Ouni",
+      "Farah Barika Ktata"
+    ],
+    "venue": "Research Square preprint",
+    "url": "https://doi.org/10.21203/rs.3.rs-6332112/v1",
+    "summary": "",
+    "aliases": [
+      "On the Origins of Sampling Bias: Implications on Fairness Measurement and Mitigation"
+    ],
+    "versions": [
+      [
+        "arXiv version · On the Origins of Sampling Bias",
+        "https://arxiv.org/abs/2503.17956"
+      ]
+    ]
+  },
+  {
+    "id": "dissecting-biases",
+    "year": 2023,
+    "title": "Dissecting Causal Biases",
+    "authors": [
+      "Rūta Binkytė",
+      "Sami Zhioua",
+      "Yassine Turki"
+    ],
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2310.13364",
+    "summary": "",
+    "versions": [
+      [
+        "SSRN version",
+        "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5290733"
+      ]
+    ]
+  },
+  {
+    "id": "norms-price",
+    "year": 2026,
+    "title": "Norms at a Price: Why RL-Based Alignment Can Promise Conditional Compliance at Best",
+    "authors": [
+      "Kevin Baum",
+      "Rūta Binkytė",
+      "Felix Jahn"
+    ],
+    "venue": "FAST workshop at NeurIPS",
+    "url": "https://arxiv.org/abs/2609.07627",
+    "summary": ""
+  },
+  {
+    "id": "linguistic-bias",
+    "year": 2026,
+    "title": "Style over Substance? Linguistic Bias in LLM-based Peer Review",
+    "authors": [
+      "Sai Suresh Macharla Vasu",
+      "Sumedh Santosh Joshi",
+      "Philipp Christmann",
+      "Ivaxi Sheth",
+      "Ruta Binkyte",
+      "Koel Dutta Chowdhury",
+      "Raouf Kerkouche",
+      "Hui-Po Wang",
+      "Mario Fritz"
+    ],
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2610.35254",
+    "summary": ""
+  },
+  {
+    "id": "last-translation",
+    "year": 2026,
+    "title": "Last Translation Benchmark",
+    "authors": [
+      "Vilém Zouhar",
+      "Niyati Bafna",
+      "Mukund Choudhary",
+      "Maike Züfle",
+      "Sara Rajaee",
+      "Pinzhen Chen",
+      "Jannis Vamvas",
+      "Sara Papi",
+      "Ona de Gibert",
+      "Bhavitvya Malik",
+      "Eliya Habba",
+      "Orfeas Menis Mastromichalakis",
+      "Patrícia Schmidtová",
+      "Michelle Wastl",
+      "Sheriff Issaka",
+      "Leshem Choshen",
+      "Stella Biderman",
+      "Antonis Anastasopoulos",
+      "Jan Niehues",
+      "Rico Sennrich",
+      "Mrinmaya Sachan",
+      "Ondřej Bojar",
+      "Kenton Murray",
+      "Jörg Tiedemann",
+      "Alham Fikri Aji",
+      "Philipp Koehn",
+      "Christof Monz",
+      "Alexandra Birch",
+      "Sowmya Vajjala",
+      "Chalamalasetti Kranti",
+      "Cristina España-Bonet",
+      "Nobin Sarwar",
+      "David Kaczér",
+      "Sourajit Saha",
+      "Jonathan Tonglet",
+      "Shunta Asano",
+      "Malik Marmonier",
+      "Daban Q. Jaff",
+      "Vaisakhi Mishra",
+      "Hend Al-Khalifa",
+      "Gabriele Sarti",
+      "Nils Rehlinger",
+      "Juan Daniel Cuervo Villa",
+      "Dominik Macháček",
+      "Saugata Purkayastha",
+      "Jagannathan Ramanujam",
+      "Shubhashis Roy Dipta",
+      "Aviral Nigam",
+      "Shuaib Shuaib Yusuf",
+      "Heejin Do",
+      "Jonathan Yahav",
+      "Johannes-Rudolf David",
+      "Maria Carmen Staiano",
+      "Zuzana Nadova",
+      "Fred Philippy",
+      "Ron Keinan",
+      "Maria Lymperaiou",
+      "Silvia Casola",
+      "Fabian Retkowski",
+      "Andrés Jerez",
+      "Hanna Yukhy- menko",
+      "Sangwon Ryu",
+      "Avantica Vempati",
+      "Sukannya Purkayastha",
+      "Adrian Cosma",
+      "Erivan Inan",
+      "Vitalii Babenko",
+      "Wafa Aissa",
+      "Valentin Scourneau",
+      "Fatima Haouari",
+      "Venkata Prasanth Kumar Gummadi",
+      "Mehdi Jafarzadeh",
+      "Manon Reusens",
+      "Kaiser Sun",
+      "Lukas Edman",
+      "Shaomu Tan",
+      "Giuseppe Gallipoli",
+      "Pawan Sasanka Ammanamanchi",
+      "Manar Ali",
+      "Mohammad Sadegh Gholizadeh",
+      "Dipankar Srirag",
+      "Marek Šuppa",
+      "Javier García Gilabert",
+      "Ruta Binkyte",
+      "Ana-Maria Bucur",
+      "Sabry E. Farrag",
+      "Youssef Saber",
+      "Yihong Liu",
+      "Theresia Veronika Rampisela",
+      "Christian Hoang",
+      "Nicoleta Cojocaru",
+      "Jan Kocoń",
+      "Jean Maillard",
+      "Xiaochuang Yuan",
+      "Sina Ahmadi",
+      "Daryna Dementieva",
+      "Philipp Mondorf",
+      "Kaustubh Dhole",
+      "Valmik Nahata",
+      "Roman Wixinger",
+      "Amir Hossein Yari",
+      "Shenbin Qian",
+      "Manuel Tuor",
+      "Fida Mohammad Thoker",
+      "Sergey Troshin",
+      "Lance Calvin Lim Gamboa",
+      "Amir Arsalan Rezapour",
+      "Kätriin Kukk",
+      "Koel Dutta Chowdhury",
+      "Shaswati Saha",
+      "Seth Aycock",
+      "Bo Chen",
+      "Linh Vu",
+      "Vatsal Venkatkrishna",
+      "Shayan Bali",
+      "Arafat Ahsan",
+      "Luan Thanh Nguyen",
+      "Hassan Soliman",
+      "Ngoc Quynh Tram Do",
+      "Azmine Toushik Wasi",
+      "R. Damanhuri",
+      "Marius Huber",
+      "Kazuki Egashira",
+      "Jimson Paulo Layacan",
+      "David Africa",
+      "Vladislav Poritski",
+      "Mike Zhang",
+      "Deep Shah",
+      "Abdulaziz Nura Kani",
+      "Luis Frentzen Salim",
+      "Paul Gavrikov",
+      "Bello Umar Bello",
+      "Ayush Sunil Munot",
+      "Anumit Garg",
+      "Yolanda Xavier",
+      "Qiaoyuan Zheng",
+      "Kawsar Ahmed",
+      "Debanshu Das",
+      "Zimu Wang",
+      "Gengyu Rao",
+      "Kamile Dementaviciute",
+      "Farhan Farsi",
+      "L D M S Sai Teja",
+      "Dawei Zhu",
+      "Yi Fan",
+      "Wei Liu",
+      "Marco Gaido",
+      "Elias Herranen",
+      "Sankalan Pal Chowdhury",
+      "Karen Sanchez",
+      "Guy Kaplan",
+      "Farzad Shami",
+      "Ashok Urlana",
+      "Amir Hossein Kargaran",
+      "Sofie Goethals",
+      "Priyaranjan Pattnayak",
+      "Oksana Volchek",
+      "Marii Ojastu",
+      "Hongbin Na",
+      "Emilian Radoi",
+      "Chenyi Zhao",
+      "Carlos Hinojosa",
+      "Andrei Niculae",
+      "Andrea Gregor de Varda",
+      "Zaid Alyafeai",
+      "Tomasz Limisiewicz",
+      "Reem Alzahrani",
+      "Pouya Sadeghi",
+      "Nehal Kathrotia",
+      "Mateusz Lango",
+      "Enzo Doyen",
+      "Alex Flückiger",
+      "Ulysses Sekai Tully Carr",
+      "Samuel Simko",
+      "Ritwik Tiwari",
+      "Rishit Dagli",
+      "Isaac R Caswell",
+      "Bowen Yi",
+      "Aicha Chorana",
+      "Selja Keränen",
+      "Sadiksha Chitrakar",
+      "Muhammad Ravi Shulthan Habibi",
+      "Joy Olusanya",
+      "Bishal Shrestha",
+      "Zhengxiang Wang",
+      "Vivek Harsha Lakkamaneni",
+      "Sophia Conrad",
+      "Panayiotis Panayiotou",
+      "Nazia Tasnim",
+      "Marta Punsola Munárriz",
+      "Marko Culjak",
+      "Luis Lara",
+      "Jenny Chim",
+      "Jannatul Nayem",
+      "Fidel Rodríguez Velásquez",
+      "Eran Yahav",
+      "Blanka Kövér",
+      "Beatrice Savoldi",
+      "Anmol Goel",
+      "Aishik Mandal",
+      "Tosin Adewumi",
+      "Raoyuan Zhao",
+      "Mykola Haltiuk",
+      "Antonia Karamolegkou",
+      "Yuxing Lu",
+      "Thura Aung",
+      "Naser Almousa",
+      "Tommaso Cerruti",
+      "Raia Abu Ahmad",
+      "Beni Egressy",
+      "Alireza Pakniat",
+      "Stéphane J. P. S. Thunus",
+      "Rachel Bawden",
+      "Lena Libon",
+      "Samridhya Biswas",
+      "Prakhar Gupta",
+      "Nusrat Jahan Lia",
+      "Nguyen Tai",
+      "Natchapon Jongwiriyanurak",
+      "Minh Ngoc Do",
+      "Ivan Barać",
+      "Dzmitry Kuzmin",
+      "Badal Nyalang",
+      "Antoine Taroni",
+      "Andy Catruna",
+      "Rushikesh Zawar",
+      "Roland Aydin",
+      "Pavel Stepachev",
+      "Ilai Yaron Levy",
+      "Andreas Simons",
+      "Rayyan Merchant",
+      "Ziyi Yang",
+      "Samuel Frontull",
+      "Kenneth Enevoldsen",
+      "Harris Abdul Majid",
+      "Tim Graf",
+      "Tatiana Bielakova",
+      "Sharifa Djurabaeva",
+      "Shaoxiong Ji",
+      "Jirui Qi",
+      "Ayla Rigouts Terryn",
+      "Yurii Paniv",
+      "Xiyan Fu",
+      "Sunisth Kumar",
+      "Shree Harsha Bokkahalli Satish",
+      "Papa Abdou Karim Karou Diallo",
+      "Mengyu Ye",
+      "Maximilian Vieweg",
+      "Matija Akrap",
+      "Kristýna Onderková",
+      "Joseph Attieh",
+      "Ivan Yuri De Leon",
+      "Ibrahim Baroud",
+      "Esrael Teferi Tensay",
+      "Elisabeth Fittschen",
+      "David Dukić",
+      "Benoît Sagot",
+      "Jingwei Ni",
+      "Yu Fan",
+      "Juri Opitz"
+    ],
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2609.04173",
+    "summary": ""
+  },
+  {
+    "id": "covid-bias",
+    "year": 2023,
+    "title": "Gender and sex bias in COVID-19 epidemiological data through the lens of causality",
+    "authors": [
+      "Natalia Díaz-Rodríguez",
+      "Rūta Binkytė",
+      "Wafae Bakkali",
+      "Sannidhi Bookseller",
+      "Paola Tubaro",
+      "Andrius Bacevičius",
+      "Sami Zhioua",
+      "Raja Chatila"
+    ],
+    "venue": "Information Processing & Management",
+    "url": "https://doi.org/10.1016/j.ipm.2023.103276",
+    "summary": ""
+  },
+  {
+    "id": "synthetic-rna",
+    "year": 2026,
+    "title": "Community benchmarking of generative models for privacy-preserving synthetic bulk RNA-seq data generation",
+    "authors": [
+      "Hakime Öztürk",
+      "Tejumade Afonja",
+      "Joonas Jälkö",
+      "Ruta Binkyte",
+      "Pablo Rodriguez-Mier",
+      "Sebastian Lobentanzer",
+      "Andrew Wicks",
+      "Jules Kreuer",
+      "Sofiane Ouaari",
+      "Nico Pfeifer",
+      "Shane Menzies",
+      "Sikha Pentyala",
+      "Daniil Filienko",
+      "Steven Golob",
+      "Patrick McKeever",
+      "Jineta Banerjee",
+      "Luca Foschini",
+      "Martine De Cock",
+      "Julio Saez-Rodriguez",
+      "Mario Fritz",
+      "Oliver Stegle",
+      "Antti Honkela"
+    ],
+    "venue": "Genome Biology",
+    "url": "https://doi.org/10.1186/s13059-026-04326-1",
+    "summary": "",
+    "aliases": [
+      "Towards Useful and Private Synthetic Omics: Community Benchmarking of Generative Models for Transcriptomics Data"
+    ],
+    "versions": [
+      [
+        "bioRxiv preprint",
+        "https://doi.org/10.64898/2026.03.02.707794"
+      ]
+    ]
+  },
+  {
+    "id": "covid-incidence",
+    "year": 2026,
+    "title": "Predicting COVID-19 incidence from seroprevalence and population-based cohort data using interpretable machine learning with differential privacy analysis",
+    "authors": [
+      "Jessica Krepel",
+      "Ruta Binkyte",
+      "Raouf Kerkouche",
+      "Manuela Harries",
+      "Carolina J. Klett-Tammen",
+      "Mario Fritz",
+      "Stefan Kesselheim",
+      "Martin Kühn",
+      "Alina Bazarova",
+      "Berit Lange",
+      "with the MuSPAD study group",
+      "RESPINOW study group"
+    ],
+    "venue": "medRxiv preprint",
+    "url": "https://doi.org/10.64898/2026.04.01.26349876",
+    "summary": ""
+  },
+  {
+    "id": "trustworthiness-medicine",
+    "year": 2025,
+    "title": "The trustworthiness landscape in machine learning: a conceptual guide with applications in medicine",
+    "authors": [
+      "Kerstin Lenhof",
+      "Lisa-Marie Rolli",
+      "Lorina Buhr",
+      "Sebastian Roth",
+      "Ruta Binkyte-Sadauskiene",
+      "Silke Schicktanz",
+      "Mario Fritz",
+      "Andrea Volkamer",
+      "Niko Beerenwinkel"
+    ],
+    "venue": "Zenodo preprint",
+    "url": "https://doi.org/10.5281/zenodo.17591544",
+    "summary": "",
+    "aliases": [
+      "Navigating trustworthiness in machine learning systems: conceptual guidance with examples from medicine"
+    ],
+    "versions": [
+      [
+        "2026 revised preprint",
+        "https://doi.org/10.5281/zenodo.22014253"
+      ]
+    ]
+  },
+  {
+    "id": "epidemic-panels",
+    "year": 2025,
+    "title": "Improving predictive ability for epidemic situations by developing optimal variable sets for epidemic panels using Machine Learning methods",
+    "authors": [
+      "Jessica Krepel",
+      "Raouf Kerkouche",
+      "Alina Bazarova",
+      "Ruta Binkyte-Sadauskiene",
+      "Manuela Harries",
+      "Carolina Klett-Tammen",
+      "Martin Joachim Kühn",
+      "Stefan Kesselheim",
+      "Mario Fritz",
+      "Berit Lange"
+    ],
+    "venue": "Helmholtz AI Conference 2025",
+    "url": "https://juser.fz-juelich.de/record/1052321",
+    "summary": ""
+  },
+  {
+    "id": "aivolution",
+    "year": 2024,
+    "title": "AIvolution – AI and digital technologies in the European Union",
+    "authors": [
+      "Eva Poptcheva",
+      "Bram Vanderborght",
+      "Miguel Colom",
+      "Rūta Binkytė",
+      "Oana Balalau",
+      "Oana Goga",
+      "Hervé Debar",
+      "Marceau Coupechoux",
+      "Juan Herrera"
+    ],
+    "venue": "Workshop report · AIvolution: Transforming the European Union’s Economy and Society",
+    "url": "https://hal.science/hal-04645463",
+    "summary": "",
+    "aliases": [
+      "Alvolution - al and digital technologies in the European Union",
+      "Alvolution-al and digital technologies in the European Union"
+    ]
+  },
+  {
+    "id": "degsne",
+    "year": 2007,
+    "title": "The Jewish village of Degsnė: a case study",
+    "authors": [
+      "Rūta Binkytė",
+      "Milda Jakulytė-Vasil",
+      "Giedrius Jokubauskis"
+    ],
+    "venue": "Jewish Space in Central and Eastern Europe · Book chapter",
+    "url": "https://www.lituanistika.lt/content/32462",
+    "summary": ""
+  },
+  {
+    "id": "mediation-data",
+    "title": "Data for Causal Mediation Analysis",
+    "year": 2025,
+    "authors": [
+      "Ruta Binkyte"
+    ],
+    "venue": "Zenodo · Dataset",
+    "url": "https://zenodo.org/records/16359243",
+    "summary": ""
+  }
+]
